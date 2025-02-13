@@ -1,7 +1,7 @@
 # Insta-web-scraper
 # iscrape
 
-![Lifecycle: Inactive](https://img.shields.io/badge/lifecycle-inactive-lightgrey)
+
 A basic web scraper for Instagram using R. This package retrieves user and hashtag metrics from Instagram, such as the number of posts, followers, and following.
 
 ## Features
