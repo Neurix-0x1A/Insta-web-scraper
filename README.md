@@ -1,5 +1,5 @@
 # Insta-web-scraper
-# iscrape
+
 
 
 A basic web scraper for Instagram using R. This package retrieves user and hashtag metrics from Instagram, such as the number of posts, followers, and following.
